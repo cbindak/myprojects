@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1637053941 source:c:\new folder (2)\structfriend\main.cpp
+	<iostream>
+	"holder.h"
+	"ThreeClass.cpp"
+
+1636798859 c:\new folder (2)\structfriend\holder.cpp
+	"holder.h"
+
+1636799817 c:\new folder (2)\structfriend\holder.h
+	<cstring>
+
+1636824955 c:\new folder (2)\structfriend\threeclass.h
+
+1636825321 c:\new folder (2)\structfriend\threeclass.cpp
+	"threeclass.h"
+
